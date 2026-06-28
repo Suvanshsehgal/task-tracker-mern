@@ -13,6 +13,7 @@ const allowedOrigins = [
   'http://localhost:5173',
   'http://localhost:3000',
   'https://task-tracker-mern-z88d.onrender.com',
+  'https://task-tracker-mern-ruddy.vercel.app',
 ];
 
 app.use(cors({
